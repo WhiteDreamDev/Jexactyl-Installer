@@ -29,7 +29,7 @@ set -e
 #############################################################################
 
 SCRIPT_VERSION="v0.13.0"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/Vasolix/jexactyl-installer"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/NineWhiteDream/jexactyl-installer"
 
 LOG_PATH="/var/log/jexactyl-installer.log"
 
