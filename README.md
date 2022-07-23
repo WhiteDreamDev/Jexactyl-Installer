@@ -1,4 +1,4 @@
-# jJexactyl-Installer (By NineNodes Team)
+# Jexactyl-Installer (By NineNodes Team)
 
 
 Read more about [jexactyl](https://jexactyl.com/) here. This script is not associated with the official Pterodactyl Project or jexacyl.
@@ -21,14 +21,14 @@ List of supported installation setups for panel and Wings (installations support
 |     Ubuntu       | 18.04   | :white_check_mark: | 8.0         |
 |     Ubuntu       | 20.04   | :white_check_mark: | 8.0         |
 |     Ubuntu       | 22.04   | :white_check_mark: | 8.0         |
------------------------------------------------------------------
-| Debian           | 8       | :red_circle: \*    |             |
-|                  | 9       | :white_check_mark: | 8.0         |
-|                  | 10      | :white_check_mark: | 8.0         |
-|                  | 11      | :white_check_mark: | 8.0         |
-| CentOS           | 6       | :red_circle:       |             |
-|                  | 7       | :white_check_mark: | 8.0         |
-|                  | 8       | :white_check_mark: | 8.0         |
+| ---------------- | ------- | ------------------ | ----------- |
+|     Debian       | 9       | :white_check_mark: | 8.0         |
+|     Debian       | 10      | :white_check_mark: | 8.0         |
+|     Debian       | 11      | :white_check_mark: | 8.0         |
+| ---------------- | ------- | ------------------ | ----------- |
+|      CentOS      | 6       | :red_circle:       |             |
+|      CentOS      | 7       | :white_check_mark: | 8.0         |
+|      CentOS      | 8       | :white_check_mark: | 8.0         |
 
 ### Supported Wings operating systems
 
