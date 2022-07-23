@@ -5,7 +5,7 @@ set -e
 #############################################################################
 #                                                                           #
 # Project 'jexactyl-installer' for panel, edit of 'pterodactyl-installer'   #
-# by Vilhelm Prytz https://github.com/vilhelmprytz/pterodactyl-installer    #
+# by WhiteDream (By NineNodes Team)    #
 #                                                                           #
 #                                                                           #
 #   This program is free software: you can redistribute it and/or modify    #
