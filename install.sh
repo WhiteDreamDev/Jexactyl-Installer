@@ -29,7 +29,7 @@ set -e
 #############################################################################
 
 SCRIPT_VERSION="v0.13.0"
-GITHUB_BASE_URL="https://github.com/NineWhiteDream/jexactyl-installer"
+GITHUB_BASE_URL="https://github.com/NineWhiteDream/Jexactyl-Installer"
 
 LOG_PATH="/var/log/jexactyl-installer.log"
 
@@ -71,7 +71,7 @@ done=false
 output "Jexactyl installation script @ $SCRIPT_VERSION"
 output
 output "Jexactyl Installer fork of Pterodactyl Installer"
-output "https://github.com/NineWhiteDream/jexactyl-installerr"
+output "https://github.com/NineWhiteDream/jexactyl-installer"
 output "https://github.com/vilhelmprytz/pterodactyl-installer"
 output
 output "Sponsoring/Donations: https://github.com/NineWhiteDream/jexactyl-installer?sponsor=1"
