@@ -22,11 +22,10 @@ List of supported installation setups for panel and Wings (installations support
 
 | Operating System | Version | nginx support      | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
-| Ubuntu           | 14.04   | :red_circle:       |             |
-|                  | 16.04   | :red_circle: \*    |             |
-|                  | 18.04   | :white_check_mark: | 8.0         |
-|                  | 20.04   | :white_check_mark: | 8.0         |
-|                  | 22.04   | :white_check_mark: | 8.0         |
+|     Ubuntu       | 18.04   | :white_check_mark: | 8.0         |
+|     Ubuntu       | 20.04   | :white_check_mark: | 8.0         |
+|     Ubuntu       | 22.04   | :white_check_mark: | 8.0         |
+-----------------------------------------------------------------
 | Debian           | 8       | :red_circle: \*    |             |
 |                  | 9       | :white_check_mark: | 8.0         |
 |                  | 10      | :white_check_mark: | 8.0         |
